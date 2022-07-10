@@ -2,16 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="96a2e0b4-05c1-4f2e-a3be-5710da05072e" name="Changes" comment="Changes">
-      <change afterPath="$PROJECT_DIR$/src/baekjoon/iteration/boj_10871/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/baekjoon/iteration/boj_10951/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/baekjoon/iteration/boj_10952/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/baekjoon/iteration/boj_1110/Main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Java-basic-study/baekjoon/iteration/boj_2439/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Java-basic-study/baekjoon/iteration/boj_2439/Main.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/baekjoon/iteration/boj_2439/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/baekjoon/iteration/boj_2439/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/spring_basic/ch4/staticBlock/Driver04.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/spring_basic/ch4/staticBlock/Driver04.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/spring_basic/ch4/staticBlock/Driver05.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/spring_basic/ch4/staticBlock/Driver05.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/spring_basic/ch4/staticBlock/동물.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/spring_basic/ch4/staticBlock/동물.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />

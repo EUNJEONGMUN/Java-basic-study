@@ -9,5 +9,16 @@ public class Main {
         int n = sc.nextInt();
         sc.close();
 
+        for (int i=1; i<=n; i++) {
+            int cnt = n-i;
+            for (int j=0; j<cnt; j++) {
+                System.out.print(" ");
+            }
+            for (int j=0; j<i; j++) {
+                System.out.print("*");
+            }
+            System.out.println();
+        }
+
     }
 }

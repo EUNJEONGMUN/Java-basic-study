@@ -2,8 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="96a2e0b4-05c1-4f2e-a3be-5710da05072e" name="Changes" comment="Changes">
+      <change afterPath="$PROJECT_DIR$/src/spring_basic/ch3/encapsulation01/packageOne/ClassA.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/spring_basic/ch3/encapsulation01/packageOne/ClassAA.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/spring_basic/ch3/encapsulation01/packageOne/ClassB.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/spring_basic/ch3/encapsulation01/packageTwo/ClassAB.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/spring_basic/ch3/encapsulation01/packageTwo/ClassC.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -46,11 +50,16 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../spring, java/oopinspring-master/oopinspring-master" />
     <property name="settings.editor.selected.configurable" value="project.propVCSSupport.DirectoryMappings" />
   </component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\EUNJEONG\Desktop\github\Java-basic-study\src\spring_basic\ch3\encapsulation02" />
+      <recent name="C:\Users\EUNJEONG\Desktop\github\Java-basic-study\src\spring_basic\ch3" />
+    </key>
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="spring_basic.ch3.encapsulation02.packageOne" />
       <recent name="spring_basic.ch3.abstraction02" />
     </key>
   </component>

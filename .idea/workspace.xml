@@ -2,11 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="96a2e0b4-05c1-4f2e-a3be-5710da05072e" name="Changes" comment="Changes">
-      <change afterPath="$PROJECT_DIR$/src/baekjoon/array/boj_1546/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/baekjoon/array/boj_3052/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/baekjoon/array/boj_4344/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/baekjoon/array/boj_8958/Main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />

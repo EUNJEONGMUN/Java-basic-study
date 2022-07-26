@@ -2,9 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="96a2e0b4-05c1-4f2e-a3be-5710da05072e" name="Changes" comment="Changes">
-      <change afterPath="$PROJECT_DIR$/src/baekjoon/function/boj_1065/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/baekjoon/function/boj_15596/Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/baekjoon/function/boj_4673/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/baekjoon/math1/boj_2869/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/baekjoon/string/boj_10809/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/baekjoon/string/boj_11654/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/baekjoon/string/boj_11720/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/baekjoon/string/boj_2098/Main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
@@ -62,13 +64,26 @@
       <recent name="spring_basic.ch3.abstraction02" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Main">
-    <configuration name="Main (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="baekjoon.array.boj_1546.Main" />
+  <component name="RunManager" selected="Application.Main (5)">
+    <configuration name="Main (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="baekjoon.string.boj_11654.Main" />
       <module name="Java-basic-study" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="baekjoon.array.boj_1546.*" />
+          <option name="PATTERN" value="baekjoon.string.boj_11654.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="baekjoon.string.boj_11720.Main" />
+      <module name="Java-basic-study" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="baekjoon.string.boj_11720.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -77,11 +92,11 @@
       </method>
     </configuration>
     <configuration name="Main (3)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="baekjoon.array.boj_8958.Main" />
+      <option name="MAIN_CLASS_NAME" value="baekjoon.string.boj_10809.Main" />
       <module name="Java-basic-study" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="baekjoon.array.boj_8958.*" />
+          <option name="PATTERN" value="baekjoon.string.boj_10809.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -90,11 +105,11 @@
       </method>
     </configuration>
     <configuration name="Main (4)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="baekjoon.array.boj_4344.Main" />
+      <option name="MAIN_CLASS_NAME" value="baekjoon.string.boj_2098.Main" />
       <module name="Java-basic-study" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="baekjoon.array.boj_4344.*" />
+          <option name="PATTERN" value="baekjoon.string.boj_2098.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -103,24 +118,11 @@
       </method>
     </configuration>
     <configuration name="Main (5)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="baekjoon.function.boj_4673.Main" />
+      <option name="MAIN_CLASS_NAME" value="baekjoon.math1.boj_2869.Main" />
       <module name="Java-basic-study" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="baekjoon.function.boj_4673.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="baekjoon.function.boj_1065.Main" />
-      <module name="Java-basic-study" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="baekjoon.function.boj_1065.*" />
+          <option name="PATTERN" value="baekjoon.math1.boj_2869.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -130,11 +132,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Main" />
         <item itemvalue="Application.Main (5)" />
         <item itemvalue="Application.Main (4)" />
         <item itemvalue="Application.Main (3)" />
         <item itemvalue="Application.Main (2)" />
+        <item itemvalue="Application.Main (1)" />
       </list>
     </recent_temporary>
   </component>
@@ -187,6 +189,11 @@
           <url>file://$PROJECT_DIR$/src/baekjoon/function/boj_4673/Main.java</url>
           <line>26</line>
           <option name="timeStamp" value="4" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/baekjoon/string/boj_10809/Main.java</url>
+          <line>16</line>
+          <option name="timeStamp" value="5" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>

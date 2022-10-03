@@ -2,10 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="96a2e0b4-05c1-4f2e-a3be-5710da05072e" name="Changes" comment="Changes">
-      <change afterPath="$PROJECT_DIR$/src/codeTree/noviceMid/function/숫자로이루어진사각형/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/codeTree/noviceMid/function/최소공배수/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/codeTree/noviceMid/function/함수를이용한합과소수의판별/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/javaTest/ch11/HashSetEx4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/javaTest/ch11/PropertiesEx4.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java-basic-study/codeTree/noviceMid/function/최소공배수/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Java-basic-study/codeTree/noviceMid/function/최소공배수/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java-basic-study/javaTest/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/javaTest/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/javaTest/arraylistTest/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -61,26 +63,13 @@
       <recent name="spring_basic.ch3.abstraction02" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Main">
-    <configuration name="Main (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="codeTree.noviceLow.string.runLength인코딩.Main" />
+  <component name="RunManager" selected="Application.PropertiesEx4">
+    <configuration name="HashSetEx4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="javaTest.ch11.HashSetEx4" />
       <module name="Java-basic-study" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="codeTree.noviceLow.string.runLength인코딩.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Main (3)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="codeTree.noviceLow.string.짝수번째만거꾸로.Main" />
-      <module name="Java-basic-study" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="codeTree.noviceLow.string.짝수번째만거꾸로.*" />
+          <option name="PATTERN" value="javaTest.ch11.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -127,13 +116,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="PropertiesEx4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="javaTest.ch11.PropertiesEx4" />
+      <module name="Java-basic-study" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="javaTest.ch11.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.PropertiesEx4" />
+        <item itemvalue="Application.HashSetEx4" />
         <item itemvalue="Application.Main" />
         <item itemvalue="Application.Main (5)" />
         <item itemvalue="Application.Main (4)" />
-        <item itemvalue="Application.Main (3)" />
-        <item itemvalue="Application.Main (2)" />
       </list>
     </recent_temporary>
   </component>
@@ -366,6 +368,45 @@
           <url>file://$PROJECT_DIR$/src/codeTree/noviceLow/string/문자열나누기/Main.java</url>
           <line>12</line>
           <option name="timeStamp" value="68" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/javaTest/ch11/HashSetEx4.java</url>
+          <line>7</line>
+          <option name="timeStamp" value="69" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/javaTest/ch11/HashSetEx4.java</url>
+          <line>26</line>
+          <option name="timeStamp" value="70" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/javaTest/ch11/HashSetEx4.java</url>
+          <line>27</line>
+          <option name="timeStamp" value="71" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/javaTest/ch11/HashSetEx4.java</url>
+          <line>28</line>
+          <option name="timeStamp" value="72" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/javaTest/ch11/HashSetEx4.java</url>
+          <line>35</line>
+          <option name="timeStamp" value="74" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/javaTest/ch11/HashSetEx4.java</url>
+          <line>5</line>
+          <option name="timeStamp" value="75" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/javaTest/ch11/HashSetEx4.java</url>
+          <line>34</line>
+          <properties class="javaTest.ch11.Person2" method="hashCode">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="73" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>

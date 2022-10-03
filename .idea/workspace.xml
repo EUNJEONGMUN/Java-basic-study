@@ -2,12 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="96a2e0b4-05c1-4f2e-a3be-5710da05072e" name="Changes" comment="Changes">
-      <change afterPath="$PROJECT_DIR$/src/codeTree/noviceLow/string/두문자열이어붙였을때/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/codeTree/noviceLow/string/문자열나누기/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/codeTree/noviceLow/string/부분문자열위치/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/codeTree/noviceLow/string/특정문자열포함여부/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/codeTree/noviceMid/function/숫자로이루어진사각형/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/codeTree/noviceMid/function/최소공배수/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/codeTree/noviceMid/function/함수를이용한합과소수의판별/Main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Java-basic-study/codeTree/noviceLow/string/짝수번째만거꾸로/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Java-basic-study/codeTree/noviceLow/string/짝수번째만거꾸로/Main.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -63,20 +61,7 @@
       <recent name="spring_basic.ch3.abstraction02" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Main (5)">
-    <configuration name="Main (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="codeTree.noviceLow.string.특정문자로시작하는문자열.Main" />
-      <module name="Java-basic-study" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="codeTree.noviceLow.string.특정문자로시작하는문자열.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.Main">
     <configuration name="Main (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="codeTree.noviceLow.string.runLength인코딩.Main" />
       <module name="Java-basic-study" />
@@ -129,13 +114,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="codeTree.noviceMid.function.최소공배수.Main" />
+      <module name="Java-basic-study" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="codeTree.noviceMid.function.최소공배수.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Main" />
         <item itemvalue="Application.Main (5)" />
         <item itemvalue="Application.Main (4)" />
         <item itemvalue="Application.Main (3)" />
         <item itemvalue="Application.Main (2)" />
-        <item itemvalue="Application.Main (1)" />
       </list>
     </recent_temporary>
   </component>

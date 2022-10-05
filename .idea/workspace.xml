@@ -2,11 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="96a2e0b4-05c1-4f2e-a3be-5710da05072e" name="Changes" comment="Changes">
-      <change afterPath="$PROJECT_DIR$/src/codeTree/noviceMid/recursion/이상한수열/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/codeTree/noviceMid/recursion/재귀함수최소공배수/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/codeTree/noviceMid/sort/k번째로신기한문자열/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/codeTree/noviceMid/sort/nextLevel/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/codeTree/noviceMid/sort/비오는날/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/javaTest/ObjectCopy.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -63,7 +59,7 @@
       <recent name="spring_basic.ch3.abstraction02" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Main (2)">
+  <component name="RunManager" selected="Application.ObjectCopy">
     <configuration name="Main (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="codeTree.noviceMid.sort.nextLevel.Main" />
       <module name="Java-basic-study" />
@@ -116,12 +112,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="codeTree.noviceMid.recursion.이상한수열.Main" />
+    <configuration name="ObjectCopy" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="javaTest.ObjectCopy" />
       <module name="Java-basic-study" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="codeTree.noviceMid.recursion.이상한수열.*" />
+          <option name="PATTERN" value="javaTest.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -131,11 +127,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ObjectCopy" />
         <item itemvalue="Application.Main (2)" />
         <item itemvalue="Application.Main (1)" />
         <item itemvalue="Application.Main (5)" />
         <item itemvalue="Application.Main (4)" />
-        <item itemvalue="Application.Main" />
       </list>
     </recent_temporary>
   </component>

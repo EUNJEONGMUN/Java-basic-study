@@ -2,18 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="96a2e0b4-05c1-4f2e-a3be-5710da05072e" name="Changes" comment="Changes">
-      <change afterPath="$PROJECT_DIR$/src/codeTree/noviceMid/function/짝수만2로나누기/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/codeTree/noviceMid/function/특정구간의합/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/codeTree/noviceMid/function/팰린드롬/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/codeTree/noviceMid/recursion/숫자차례로출력/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/codeTree/noviceMid/recursion/일부터특정수까지의합2/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/codeTree/noviceMid/recursion/일이되는순간까지/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/codeTree/noviceMid/recursion/재귀함수의꽃/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/codeTree/noviceMid/recursion/최댓값/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/codeTree/noviceMid/recursion/팩토리얼/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/codeTree/noviceMid/recursion/홀짝수/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/codeTree/noviceMid/recursion/이상한수열/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/codeTree/noviceMid/recursion/재귀함수최소공배수/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/codeTree/noviceMid/sort/k번째로신기한문자열/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/codeTree/noviceMid/sort/nextLevel/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/codeTree/noviceMid/sort/비오는날/Main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Java-basic-study/javaTest/ch11/PropertiesEx4.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Java-basic-study/javaTest/ch11/PropertiesEx4.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -69,26 +63,13 @@
       <recent name="spring_basic.ch3.abstraction02" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Main (3)">
-    <configuration name="HashSetEx4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="javaTest.ch11.HashSetEx4" />
-      <module name="Java-basic-study" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="javaTest.ch11.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.Main (2)">
     <configuration name="Main (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="codeTree.noviceMid.function.팰린드롬.Main" />
+      <option name="MAIN_CLASS_NAME" value="codeTree.noviceMid.sort.nextLevel.Main" />
       <module name="Java-basic-study" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="codeTree.noviceMid.function.팰린드롬.*" />
+          <option name="PATTERN" value="codeTree.noviceMid.sort.nextLevel.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -97,11 +78,11 @@
       </method>
     </configuration>
     <configuration name="Main (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="codeTree.noviceMid.recursion.숫자차례로출력.Main" />
+      <option name="MAIN_CLASS_NAME" value="codeTree.noviceMid.sort.비오는날.Main" />
       <module name="Java-basic-study" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="codeTree.noviceMid.recursion.숫자차례로출력.*" />
+          <option name="PATTERN" value="codeTree.noviceMid.sort.비오는날.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -109,12 +90,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Main (3)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="codeTree.noviceMid.recursion.재귀함수의꽃.Main" />
+    <configuration name="Main (4)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="codeTree.noviceMid.recursion.재귀함수최소공배수.Main" />
       <module name="Java-basic-study" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="codeTree.noviceMid.recursion.재귀함수의꽃.*" />
+          <option name="PATTERN" value="codeTree.noviceMid.recursion.재귀함수최소공배수.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -122,12 +103,25 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="PropertiesEx4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="javaTest.ch11.PropertiesEx4" />
+    <configuration name="Main (5)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="codeTree.noviceMid.sort.k번째로신기한문자열.Main" />
       <module name="Java-basic-study" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="javaTest.ch11.*" />
+          <option name="PATTERN" value="codeTree.noviceMid.sort.k번째로신기한문자열.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="codeTree.noviceMid.recursion.이상한수열.Main" />
+      <module name="Java-basic-study" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="codeTree.noviceMid.recursion.이상한수열.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -137,11 +131,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Main (3)" />
         <item itemvalue="Application.Main (2)" />
         <item itemvalue="Application.Main (1)" />
-        <item itemvalue="Application.PropertiesEx4" />
-        <item itemvalue="Application.HashSetEx4" />
+        <item itemvalue="Application.Main (5)" />
+        <item itemvalue="Application.Main (4)" />
+        <item itemvalue="Application.Main" />
       </list>
     </recent_temporary>
   </component>
@@ -430,6 +424,51 @@
           <line>11</line>
           <option name="timeStamp" value="82" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/codeTree/noviceMid/recursion/재귀함수최소공배수/Main.java</url>
+          <line>22</line>
+          <option name="timeStamp" value="83" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/codeTree/noviceMid/recursion/재귀함수최소공배수/Main.java</url>
+          <line>23</line>
+          <option name="timeStamp" value="84" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/codeTree/noviceMid/recursion/재귀함수최소공배수/Main.java</url>
+          <line>25</line>
+          <option name="timeStamp" value="85" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/codeTree/noviceMid/sort/k번째로신기한문자열/Main.java</url>
+          <line>20</line>
+          <option name="timeStamp" value="86" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/codeTree/noviceMid/sort/k번째로신기한문자열/Main.java</url>
+          <line>5</line>
+          <option name="timeStamp" value="87" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/codeTree/noviceMid/sort/비오는날/Main.java</url>
+          <line>18</line>
+          <option name="timeStamp" value="89" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/codeTree/noviceMid/sort/비오는날/Main.java</url>
+          <line>19</line>
+          <option name="timeStamp" value="90" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/codeTree/noviceMid/sort/비오는날/Main.java</url>
+          <line>10</line>
+          <option name="timeStamp" value="94" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/codeTree/noviceMid/sort/비오는날/Main.java</url>
+          <line>12</line>
+          <option name="timeStamp" value="96" />
+        </line-breakpoint>
         <line-breakpoint enabled="true" type="java-method">
           <url>file://$PROJECT_DIR$/src/javaTest/ch11/HashSetEx4.java</url>
           <line>34</line>
@@ -438,6 +477,15 @@
             <option name="WATCH_EXIT" value="false" />
           </properties>
           <option name="timeStamp" value="73" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/codeTree/noviceMid/sort/k번째로신기한문자열/Main.java</url>
+          <line>6</line>
+          <properties class="codeTree.noviceMid.sort.k번째로신기한문자열.Main" method="main">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="88" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>

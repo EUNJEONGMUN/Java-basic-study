@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="96a2e0b4-05c1-4f2e-a3be-5710da05072e" name="Changes" comment="Changes">
-      <change afterPath="$PROJECT_DIR$/src/javaTest/ObjectCopy.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/codeTree/noviceMid/sort/국영수순/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/codeTree/noviceMid/sort/키를기준으로정렬/Main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -17,6 +18,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Interface" />
+        <option value="HTML File" />
         <option value="Class" />
       </list>
     </option>
@@ -44,6 +46,7 @@
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
@@ -59,7 +62,7 @@
       <recent name="spring_basic.ch3.abstraction02" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.ObjectCopy">
+  <component name="RunManager" selected="Application.Main (3)">
     <configuration name="Main (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="codeTree.noviceMid.sort.nextLevel.Main" />
       <module name="Java-basic-study" />
@@ -86,12 +89,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Main (4)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="codeTree.noviceMid.recursion.재귀함수최소공배수.Main" />
+    <configuration name="Main (3)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="codeTree.noviceMid.sort.국영수순.Main" />
       <module name="Java-basic-study" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="codeTree.noviceMid.recursion.재귀함수최소공배수.*" />
+          <option name="PATTERN" value="codeTree.noviceMid.sort.국영수순.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -99,12 +102,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Main (5)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="codeTree.noviceMid.sort.k번째로신기한문자열.Main" />
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="codeTree.noviceMid.sort.키를기준으로정렬.Main" />
       <module name="Java-basic-study" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="codeTree.noviceMid.sort.k번째로신기한문자열.*" />
+          <option name="PATTERN" value="codeTree.noviceMid.sort.키를기준으로정렬.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -127,11 +130,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Main (3)" />
+        <item itemvalue="Application.Main" />
         <item itemvalue="Application.ObjectCopy" />
         <item itemvalue="Application.Main (2)" />
         <item itemvalue="Application.Main (1)" />
-        <item itemvalue="Application.Main (5)" />
-        <item itemvalue="Application.Main (4)" />
       </list>
     </recent_temporary>
   </component>

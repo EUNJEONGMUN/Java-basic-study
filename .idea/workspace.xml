@@ -2,10 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="96a2e0b4-05c1-4f2e-a3be-5710da05072e" name="Changes" comment="Changes">
-      <change afterPath="$PROJECT_DIR$/src/codeTree/noviceMid/simulation1/section/BlackAndWhite.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/codeTree/noviceMid/simulation1/section/Block.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/codeTree/noviceMid/simulation1/section/Move.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/codeTree/noviceMid/simulation1/section/Tile.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/codeTree/noviceMid/simulation1/square/Square.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/codeTree/noviceMid/simulation1/square/겹치지않는사각형넓이.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -64,7 +62,20 @@
       <recent name="spring_basic.ch3.abstraction02" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Tile">
+  <component name="RunManager" selected="Application.겹치지않는사각형넓이">
+    <configuration name="겹치지않는사각형넓이" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="codeTree.noviceMid.simulation1.square.겹치지않는사각형넓이" />
+      <module name="Java-basic-study" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="codeTree.noviceMid.simulation1.square.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="BlackAndWhite" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="codeTree.noviceMid.simulation1.section.BlackAndWhite" />
       <module name="Java-basic-study" />
@@ -78,12 +89,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Block" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="codeTree.noviceMid.simulation1.section.Block" />
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="codeTree.noviceMid.recursion.재귀함수최소공배수.Main" />
       <module name="Java-basic-study" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="codeTree.noviceMid.simulation1.section.*" />
+          <option name="PATTERN" value="codeTree.noviceMid.recursion.재귀함수최소공배수.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -91,25 +102,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Move" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="codeTree.noviceMid.simulation1.section.Move" />
+    <configuration name="Square" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="codeTree.noviceMid.simulation1.square.Square" />
       <module name="Java-basic-study" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="codeTree.noviceMid.simulation1.section.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="RadixToRadix" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="codeTree.noviceMid.simulation1.radixTransformation.RadixToRadix" />
-      <module name="Java-basic-study" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="codeTree.noviceMid.simulation1.radixTransformation.*" />
+          <option name="PATTERN" value="codeTree.noviceMid.simulation1.square.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -132,11 +130,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.겹치지않는사각형넓이" />
+        <item itemvalue="Application.Main" />
+        <item itemvalue="Application.Square" />
         <item itemvalue="Application.Tile" />
         <item itemvalue="Application.BlackAndWhite" />
-        <item itemvalue="Application.Move" />
-        <item itemvalue="Application.Block" />
-        <item itemvalue="Application.RadixToRadix" />
       </list>
     </recent_temporary>
   </component>

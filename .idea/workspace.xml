@@ -2,8 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="96a2e0b4-05c1-4f2e-a3be-5710da05072e" name="Changes" comment="Changes">
-      <change afterPath="$PROJECT_DIR$/src/codeTree/noviceMid/simulation1/square/Square.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/codeTree/noviceMid/simulation1/square/겹치지않는사각형넓이.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/codeTree/noviceMid/simulation2/sequence/T를초과하는.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/codeTree/noviceMid/simulation2/sequence/연속되는수2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/codeTree/noviceMid/simulation2/sequence/연속되는수4.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -62,7 +63,7 @@
       <recent name="spring_basic.ch3.abstraction02" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.겹치지않는사각형넓이">
+  <component name="RunManager" selected="Application.T를초과하는">
     <configuration name="겹치지않는사각형넓이" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="codeTree.noviceMid.simulation1.square.겹치지않는사각형넓이" />
       <module name="Java-basic-study" />
@@ -76,12 +77,25 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="BlackAndWhite" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="codeTree.noviceMid.simulation1.section.BlackAndWhite" />
+    <configuration name="연속되는수2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="codeTree.noviceMid.simulation2.sequence.연속되는수2" />
       <module name="Java-basic-study" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="codeTree.noviceMid.simulation1.section.*" />
+          <option name="PATTERN" value="codeTree.noviceMid.simulation2.sequence.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="연속되는수4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="codeTree.noviceMid.simulation2.sequence.연속되는수4" />
+      <module name="Java-basic-study" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="codeTree.noviceMid.simulation2.sequence.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -102,25 +116,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Square" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="codeTree.noviceMid.simulation1.square.Square" />
+    <configuration name="T를초과하는" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="codeTree.noviceMid.simulation2.sequence.T를초과하는" />
       <module name="Java-basic-study" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="codeTree.noviceMid.simulation1.square.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Tile" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="codeTree.noviceMid.simulation1.section.Tile" />
-      <module name="Java-basic-study" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="codeTree.noviceMid.simulation1.section.*" />
+          <option name="PATTERN" value="codeTree.noviceMid.simulation2.sequence.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -130,11 +131,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.T를초과하는" />
+        <item itemvalue="Application.연속되는수4" />
+        <item itemvalue="Application.연속되는수2" />
         <item itemvalue="Application.겹치지않는사각형넓이" />
         <item itemvalue="Application.Main" />
-        <item itemvalue="Application.Square" />
-        <item itemvalue="Application.Tile" />
-        <item itemvalue="Application.BlackAndWhite" />
       </list>
     </recent_temporary>
   </component>
@@ -522,6 +523,66 @@
           <url>file://$PROJECT_DIR$/src/codeTree/noviceMid/simulation1/section/BlackAndWhite.java</url>
           <line>24</line>
           <option name="timeStamp" value="112" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/codeTree/noviceMid/simulation2/sequence/연속되는수4.java</url>
+          <line>6</line>
+          <option name="timeStamp" value="113" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/codeTree/noviceMid/simulation2/sequence/연속되는수4.java</url>
+          <line>8</line>
+          <option name="timeStamp" value="114" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/codeTree/noviceMid/simulation2/sequence/연속되는수4.java</url>
+          <line>9</line>
+          <option name="timeStamp" value="115" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/codeTree/noviceMid/simulation2/sequence/연속되는수4.java</url>
+          <line>10</line>
+          <option name="timeStamp" value="116" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/codeTree/noviceMid/simulation2/sequence/연속되는수4.java</url>
+          <line>11</line>
+          <option name="timeStamp" value="117" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/codeTree/noviceMid/simulation2/sequence/연속되는수4.java</url>
+          <line>14</line>
+          <option name="timeStamp" value="118" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/codeTree/noviceMid/simulation2/sequence/연속되는수4.java</url>
+          <line>15</line>
+          <option name="timeStamp" value="119" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/codeTree/noviceMid/simulation2/sequence/T를초과하는.java</url>
+          <line>6</line>
+          <option name="timeStamp" value="121" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/codeTree/noviceMid/simulation2/sequence/T를초과하는.java</url>
+          <line>8</line>
+          <option name="timeStamp" value="122" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/codeTree/noviceMid/simulation2/sequence/T를초과하는.java</url>
+          <line>10</line>
+          <option name="timeStamp" value="123" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/codeTree/noviceMid/simulation2/sequence/T를초과하는.java</url>
+          <line>7</line>
+          <option name="timeStamp" value="124" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/codeTree/noviceMid/simulation2/sequence/T를초과하는.java</url>
+          <line>9</line>
+          <option name="timeStamp" value="125" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-method">
           <url>file://$PROJECT_DIR$/src/javaTest/ch11/HashSetEx4.java</url>

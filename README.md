@@ -5,8 +5,10 @@
 - repository 구조
   - src
     - `baekjoon` : 백준 단계별 문제집 풀이
-    - `spring_basic` : spring 공부 예제 코드
+    - `codeTree` : CodeTree 문제 풀이
     - `codingTest` : 백준 문제풀이([tony9402/baekjoon](https://github.com/tony9402/baekjoon) 참고)
+    - `javaTest` : java 기초 공부 예제 코드
+    - `spring_basic` : spring 공부 예제 코드
 
     
 ### 백준 문제 풀이(baekjoon) 세부 구조

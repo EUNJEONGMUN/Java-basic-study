@@ -2,11 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="96a2e0b4-05c1-4f2e-a3be-5710da05072e" name="Changes" comment="Changes">
-      <change afterPath="$PROJECT_DIR$/src/codeTree/noviceMid/simulation2/array/선두를지켜라.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/codeTree/noviceMid/simulation2/array/악수와전염병.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/javaTest/thread/RamenProgram.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/codeTree/noviceMid/simulation2/dxdy/방향에맞춰이동.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/codeTree/noviceMid/simulation2/array/만나는그순간.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/codeTree/noviceMid/simulation2/array/만나는그순간.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java-basic-study/codeTree/noviceMid/simulation2/array/선두를지켜라.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Java-basic-study/codeTree/noviceMid/simulation2/array/선두를지켜라.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -64,7 +62,7 @@
       <recent name="spring_basic.ch3.abstraction02" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.선두를지켜라">
+  <component name="RunManager" selected="Application.방향에맞춰이동">
     <configuration name="선두를지켜라" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="codeTree.noviceMid.simulation2.array.선두를지켜라" />
       <module name="Java-basic-study" />
@@ -78,12 +76,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="연속되는수2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="codeTree.noviceMid.simulation2.sequence.연속되는수2" />
+    <configuration name="방향에맞춰이동" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="codeTree.noviceMid.simulation2.dxdy.방향에맞춰이동" />
       <module name="Java-basic-study" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="codeTree.noviceMid.simulation2.sequence.*" />
+          <option name="PATTERN" value="codeTree.noviceMid.simulation2.dxdy.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -158,11 +156,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.방향에맞춰이동" />
         <item itemvalue="Application.선두를지켜라" />
         <item itemvalue="Application.RamenProgram" />
         <item itemvalue="Application.T를초과하는" />
         <item itemvalue="Application.연속되는수4" />
-        <item itemvalue="Application.연속되는수2" />
       </list>
     </recent_temporary>
   </component>

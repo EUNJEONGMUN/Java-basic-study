@@ -26,5 +26,16 @@ public class 배열을List로변환 {
         /**
          * list3 = [1, 2, 3, 4, 5, 100]
          */
+
+        List list4 = Arrays.asList("홍길동", "김철수", "김영희", null);
+        System.out.println("list4 = " + list4);
+
+        /**
+         * list4 = [홍길동, 김철수, 김영희, null]
+         */
+
+        list4.set(1, "가나다");
+
+        System.out.println("list4 = " + list4);
     }
 }

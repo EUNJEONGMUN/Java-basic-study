@@ -7,7 +7,7 @@ public class IsAlphabetic {
         System.out.println(Character.isAlphabetic('1'));
         System.out.println(Character.isAlphabetic('A'));
         System.out.println(Character.isAlphabetic('@'));
-        System.out.println(Character.isAlphabetic('가'));
+        System.out.println(Character.isAlphabetic('\u2164'));
         System.out.println("==========isDigit==========");
         System.out.println(Character.isDigit('a'));
         System.out.println(Character.isDigit('1'));
@@ -27,7 +27,7 @@ public class IsAlphabetic {
         System.out.println(Character.isLetter('A'));
         System.out.println(Character.isLetter('@'));
         System.out.println(Character.isLetter('가'));
-        System.out.println(Character.isLetter('\n'));
+        System.out.println(Character.isLetter('\u2164'));
         System.out.println("==========isLowerCase==========");
         System.out.println(Character.isLowerCase('a'));
         System.out.println(Character.isLowerCase('1'));
@@ -56,7 +56,6 @@ public class IsAlphabetic {
         System.out.println(Character.toUpperCase(' '));
         System.out.println(Character.toUpperCase('가'));
         System.out.println(Character.toUpperCase('\n'));
-
 
 
     }

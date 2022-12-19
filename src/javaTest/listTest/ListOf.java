@@ -1,7 +1,6 @@
-package javaTest.arraylistTest;
+package javaTest.listTest;
 
 import java.util.List;
-import java.util.Set;
 
 public class ListOf {
     public static void main(String[] args) {

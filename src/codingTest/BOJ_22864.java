@@ -1,8 +1,8 @@
-package codingTest.bruthFource.boj_22864;
+package codingTest;
 
 import java.util.Scanner;
 
-public class Main {
+public class BOJ_22864 {
     public static void main(String[] args) {
         int HOUR = 24;
         Scanner sc = new Scanner(System.in);

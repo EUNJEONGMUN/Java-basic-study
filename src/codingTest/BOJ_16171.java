@@ -1,8 +1,8 @@
-package codingTest.string.boj_16171;
+package codingTest;
 
 import java.util.Scanner;
 
-public class Main {
+public class BOJ_16171 {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         String s = sc.next();
